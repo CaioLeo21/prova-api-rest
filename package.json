@@ -1,0 +1,27 @@
+{
+  "name": "prova-api-rest",
+  "version": "1.0.0",
+  "description": "Prova da matéria de Programação Avançada",
+  "main": "index.js",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.13",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaioLeo21/prova-api-rest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaioLeo21/prova-api-rest/issues"
+  },
+  "homepage": "https://github.com/CaioLeo21/prova-api-rest#readme"
+}
